@@ -82,7 +82,7 @@ catkin_package(
     razor_imu_9dof
     tf
     tf2_ros
-    urg_node
+    rplidar_ros
     joy
     rosbag
     rostopic
